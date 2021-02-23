@@ -21,6 +21,7 @@
 </p>
 
 ![multi xss](https://image.ibb.co/gOCV5L/Screenshot-2018-11-19-13-33-49.png)
+## Wilson Njugia
 
 <p align="center">
   <a href="https://github.com/s0md3v/XSStrike/wiki">XSStrike Wiki</a> •
